@@ -1,0 +1,42 @@
+/* 
+Google Font 
+==============
+font-family: "Roboto", sans-serif;
+font-family: "Kaushan Script", cursive;
+font-family: "Montserrat", sans-serif;
+
+Colors
+==========
+Primary: #95e1d3
+Secoundery: #f38181
+Text: #999999
+*/
+/* Common CSS */
+
+h1,h2,h3,h4,h5,h6{
+    font-family: "Montserrat", sans-serif;
+}
+h1{
+    font-size: 150px;
+}
+h2{
+    font-size: 30px;
+}
+.h5{
+    font-size: 14px;
+}
+body{
+    font-family: "Roboto", sans-serif;
+}
+
+
+/* Header Css */
+#header{
+    background-color: #e78382;
+}
+
+.nav-link{
+    padding: 10px 25px !important;
+    font-family: "Montserrat", sans-serif;
+    color: #fff;
+}
